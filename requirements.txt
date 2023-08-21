@@ -1,0 +1,7 @@
+numpy
+pandas
+robotframework
+pytest
+tensorflow
+pytorch
+opencv2
